@@ -1,0 +1,573 @@
+{
+  "monsters": [
+    [
+      "Young Sandworm",
+      {
+        "name": "Young Sandworm",
+        "size": "Small",
+        "type": "Worm",
+        "subtype": "Sand Worm",
+        "alignment": "Aggressive",
+        "ac": 2,
+        "hp": "10 (2d8 + 2)",
+        "hit_dice": "2d8",
+        "speed": "6 (2d8 + 1)",
+        "stats": [
+          10,
+          8,
+          14,
+          2,
+          11,
+          3
+        ],
+        "saves": [
+          {
+            "strength": 0
+          },
+          {
+            "dexterity": -1
+          },
+          {
+            "constitution": 1
+          },
+          {
+            "intelligence": -4
+          },
+          {
+            "wisdom": 0
+          },
+          {
+            "charisma": -4
+          }
+        ],
+        "skillsaves": [
+          {
+            "perception": 1
+          },
+          {
+            "survival": 1
+          }
+        ],
+        "damage_vulnerabilities": "piercing, explosives",
+        "damage_resistances": "slash, nature, fire",
+        "damage_immunities": "none",
+        "condition_immunities": "blindness, burning",
+        "senses": "touch, hearing, tremorsense",
+        "languages": "none",
+        "cr": 1,
+        "traits": [
+          {
+            "name": "Pack Hunter",
+            "desc": "Appears in groups of 2-3"
+          },
+          {
+            "name": "Cry Out",
+            "desc": "Whenever low or about to lose a battle calls out to an adult sandworm if any nearby"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "Bites the opposition with its mouth"
+          },
+          {
+            "name": "Dig",
+            "desc": "Digs underneath the ground to flank or create an ambush"
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Burrow Away",
+            "desc": "When the sandworm would take damage from a ranged attack, it can use its reaction to burrow underground, gaining +5 AC until the start of its next turn. However, it can't attack while underground."
+          },
+          {
+            "name": "Snap Counterattack",
+            "desc": "When a creature within 5 feet hits the sandworm with a melee attack, it can use its reaction to make one bite attack against that creature."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Adult Sandworm",
+      {
+        "name": "Adult Sandworm",
+        "size": "Medium - Large",
+        "type": "Worm",
+        "subtype": "Sand Worm",
+        "alignment": "Aggressive",
+        "ac": 10,
+        "hp": "25 (2d20+1d6)",
+        "hit_dice": "2d20+1d6",
+        "speed": 15,
+        "stats": [
+          15,
+          0,
+          20,
+          5,
+          1,
+          0
+        ],
+        "saves": [
+          {
+            "<ability-score>": 2
+          }
+        ],
+        "skillsaves": [
+          {
+            "<skill-name>": 2
+          }
+        ],
+        "damage_vulnerabilities": "piercing, explosives",
+        "damage_resistances": "slash, nature, fire",
+        "damage_immunities": "earth",
+        "condition_immunities": "blindness, burning",
+        "senses": "touch, hearing, tremorsense",
+        "languages": "none",
+        "cr": 7,
+        "traits": [
+          {
+            "name": "Pack Hunter",
+            "desc": "Appears in groups of 2-3"
+          },
+          {
+            "name": "Earth immunity",
+            "desc": "Immune to any earth attacks"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "Bites the opposition with its mouth"
+          },
+          {
+            "name": "Dig",
+            "desc": "Digs underneath the ground to flank or create an ambush"
+          },
+          {
+            "name": "Earthquake",
+            "desc": "Causes a local earthquake to happen"
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Earth absorbtion",
+            "desc": "Absorbs any earth type attack launched against it"
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Ancient Sandworm",
+      {
+        "name": "Ancient Sandworm",
+        "size": "Large",
+        "type": "Worm",
+        "subtype": "Sand Worm",
+        "alignment": "Chaotic",
+        "ac": 30,
+        "hp": "25 (4d20+2d12)",
+        "hit_dice": "4d20+2d12",
+        "speed": 15,
+        "stats": [
+          15,
+          0,
+          20,
+          5,
+          1,
+          0
+        ],
+        "saves": [
+          {
+            "<ability-score>": 2
+          }
+        ],
+        "skillsaves": [
+          {
+            "<skill-name>": 2
+          }
+        ],
+        "damage_vulnerabilities": "explosives",
+        "damage_resistances": "slash, nature, fire, piercing",
+        "damage_immunities": "earth, mental",
+        "condition_immunities": "blindness, burning",
+        "senses": "touch, hearing, tremorsense",
+        "languages": "none",
+        "cr": 12,
+        "traits": [
+          {
+            "name": "Earth immunity",
+            "desc": "Immune to any earth attacks"
+          },
+          {
+            "name": "Grave Keeper",
+            "desc": "Prevents any undead to be within it's area"
+          },
+          {
+            "name": "Ancient Organism",
+            "desc": "Immune to any mental attacks"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "Bites the opposition with its mouth"
+          },
+          {
+            "name": "Dig",
+            "desc": "Digs underneath the ground to flank or create an ambush"
+          },
+          {
+            "name": "Primal Earthquake",
+            "desc": "Causes a city sized earthquake to happen"
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Earth absorbtion",
+            "desc": "Absorbs any earth type attack launched against it"
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Adult Rat",
+      {
+        "name": "Adult Rat",
+        "size": "Small",
+        "type": "Beast",
+        "subtype": "Rodent",
+        "alignment": "Defensive",
+        "ac": 11,
+        "hp": "5 (2d6)",
+        "hit_dice": "2d6",
+        "speed": 25,
+        "stats": [
+          4,
+          14,
+          10,
+          2,
+          11,
+          4
+        ],
+        "saves": [
+          {
+            "dexterity": 4
+          },
+          {
+            "constitution": 0
+          }
+        ],
+        "skillsaves": [
+          {
+            "perception": 2
+          },
+          {
+            "stealth": 4
+          }
+        ],
+        "damage_vulnerabilities": "bludgeoning",
+        "damage_resistances": "none",
+        "damage_immunities": "none",
+        "condition_immunities": "none",
+        "senses": "darkvision 30ft, keen smell",
+        "languages": "none",
+        "cr": "1/8",
+        "traits": [
+          {
+            "name": "Pack Tactics",
+            "desc": "Appears in groups of 2-4"
+          },
+          {
+            "name": "Keen Smell",
+            "desc": "Has advantage on Perception checks that rely on smell"
+          },
+          {
+            "name": "Nimble Escape",
+            "desc": "Can take the Disengage action as a bonus action"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "Bites with sharp incisors. Hit: 3 (1d4 + 1)"
+          },
+          {
+            "name": "Scratch",
+            "desc": "Claws at opponent frantically. Hit: 2 (1d3 + 1)"
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Desperate Bite",
+            "desc": "When a creature within 5 feet would move away, the rat can use its reaction to make one bite attack against that creature."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Small Rat",
+      {
+        "name": "Small Rat",
+        "size": "Tiny",
+        "type": "Beast",
+        "subtype": "Rodent",
+        "alignment": "Timid",
+        "ac": 10,
+        "hp": "2 (1d4)",
+        "hit_dice": "1d4",
+        "speed": 20,
+        "stats": [
+          2,
+          12,
+          8,
+          2,
+          10,
+          4
+        ],
+        "saves": [
+          {
+            "dexterity": 3
+          },
+          {
+            "constitution": -1
+          }
+        ],
+        "skillsaves": [
+          {
+            "perception": 2
+          },
+          {
+            "stealth": 3
+          }
+        ],
+        "damage_vulnerabilities": "all",
+        "damage_resistances": "none",
+        "damage_immunities": "none",
+        "condition_immunities": "none",
+        "senses": "darkvision 30ft, keen smell",
+        "languages": "none",
+        "cr": 0,
+        "traits": [
+          {
+            "name": "Swarm Creature",
+            "desc": "Appears in groups of 3-6"
+          },
+          {
+            "name": "Keen Smell",
+            "desc": "Has advantage on Perception checks that rely on smell"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "Bites with tiny teeth. Hit: 1 (1d2)"
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Scatter",
+            "desc": "When the rat would take damage, it can use its reaction to move up to half its speed without provoking opportunity attacks."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Adult Wolf",
+      {
+        "name": "Adult Wolf",
+        "size": "Medium",
+        "type": "Beast",
+        "subtype": "Canine",
+        "alignment": "Aggressive",
+        "ac": 13,
+        "hp": "22 (4d8 + 4)",
+        "hit_dice": "4d8",
+        "speed": 40,
+        "stats": [
+          14,
+          15,
+          12,
+          3,
+          13,
+          7
+        ],
+        "saves": [
+          {
+            "strength": 4
+          },
+          {
+            "dexterity": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "perception": 4
+          },
+          {
+            "survival": 3
+          },
+          {
+            "stealth": 4
+          }
+        ],
+        "damage_vulnerabilities": "none",
+        "damage_resistances": "none",
+        "damage_immunities": "none",
+        "condition_immunities": "none",
+        "senses": "keen hearing and smell, darkvision 60ft",
+        "languages": "none",
+        "cr": 1,
+        "traits": [
+          {
+            "name": "Pack Tactics",
+            "desc": "Has advantage on attack rolls against a creature if at least one ally is within 5 feet of the target"
+          },
+          {
+            "name": "Keen Hearing and Smell",
+            "desc": "Has advantage on Perception checks that rely on hearing or smell"
+          },
+          {
+            "name": "Coordinated Hunter",
+            "desc": "Can use bonus action to signal another wolf within 30 feet to move up to half its speed"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "Bites with powerful jaws. Hit: 7 (2d4 + 2)"
+          },
+          {
+            "name": "Tackle",
+            "desc": "Charges and slams into target. Target must succeed DC 12 Strength save or be knocked prone. Hit: 6 (1d6 + 3)"
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Snap Back",
+            "desc": "When a creature within 5 feet hits the wolf with a melee attack, it can use its reaction to make one bite attack against that creature."
+          },
+          {
+            "name": "Evasive Dodge",
+            "desc": "When targeted by a ranged attack, the wolf can use its reaction to impose disadvantage on the attack roll if it can see the attacker."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Young Wolf",
+      {
+        "name": "Young Wolf",
+        "size": "Medium",
+        "type": "Beast",
+        "subtype": "Canine",
+        "alignment": "Aggressive",
+        "ac": 12,
+        "hp": "15 (3d8 + 3)",
+        "hit_dice": "3d8",
+        "speed": 35,
+        "stats": [
+          12,
+          14,
+          12,
+          3,
+          12,
+          6
+        ],
+        "saves": [
+          {
+            "dexterity": 4
+          },
+          {
+            "wisdom": 3
+          }
+        ],
+        "skillsaves": [
+          {
+            "perception": 3
+          },
+          {
+            "survival": 3
+          },
+          {
+            "stealth": 4
+          }
+        ],
+        "damage_vulnerabilities": "none",
+        "damage_resistances": "none",
+        "damage_immunities": "none",
+        "condition_immunities": "none",
+        "senses": "keen hearing and smell",
+        "languages": "none",
+        "cr": "1/2",
+        "traits": [
+          {
+            "name": "Pack Hunter",
+            "desc": "Appears in groups of 2-4"
+          },
+          {
+            "name": "Keen Hearing and Smell",
+            "desc": "Has advantage on Perception checks that rely on hearing or smell"
+          },
+          {
+            "name": "Howl for Help",
+            "desc": "When bloodied, can howl to call adult wolves if any are within 300 feet"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "Bites with developing fangs. Hit: 5 (1d6 + 2)"
+          },
+          {
+            "name": "Pounce",
+            "desc": "Leaps at target, attempting to knock them prone. Target must succeed DC 11 Strength save or be knocked prone. Hit: 4 (1d4 + 2)"
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Pack Defense",
+            "desc": "When an ally within 5 feet is attacked, the young wolf can use its reaction to impose disadvantage on the attack roll."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ]
+  ],
+  "defaultLayouts": {},
+  "layouts": [],
+  "default": "basic-5e-layout",
+  "useDice": true,
+  "renderDice": true,
+  "export": true,
+  "showAdvanced": true,
+  "version": {
+    "major": 4,
+    "minor": 10,
+    "patch": 2
+  },
+  "paths": [
+    "2. Mechanics/Bestiary"
+  ],
+  "autoParse": true,
+  "disableSRD": false,
+  "tryToRenderLinks": true,
+  "debug": true,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}

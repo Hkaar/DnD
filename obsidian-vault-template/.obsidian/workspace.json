@@ -1,0 +1,627 @@
+{
+  "main": {
+    "id": "ad6f9e02cde5dafd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3605d77df38e302",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e89e4b7ab8a3f79c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Stats - Bob",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Notes/Stats - Bob.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stats - Bob\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "forest - 3 - dark sun.",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Maps/Battle Maps/forest - 3 - dark sun..png\"},\"icon\":\"lucide-image\",\"title\":\"forest - 3 - dark sun.\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Map",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Notes/Map.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Map\"}",
+                  "eState": "{\"scroll\":14.979591836734693}"
+                },
+                {
+                  "title": "Esther",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Mercenary Group/Esther.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Esther\"}",
+                  "eState": "{\"scroll\":90.72340425531915}"
+                },
+                {
+                  "title": "Map",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Notes/Map.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Map\"}",
+                  "eState": "{\"scroll\":11.122448979591837}"
+                },
+                {
+                  "title": "Stats - Bob",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Notes/Stats - Bob.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Stats - Bob\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dark Sun",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Maps/Dark Sun.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Dark Sun\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":32,\"ch\":15}}}"
+                },
+                {
+                  "title": "Map",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Notes/Map.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Map\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Riets",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Mercenary Group/Riets.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Riets\"}",
+                  "eState": "{\"scroll\":53.01899827288428}"
+                },
+                {
+                  "title": "Stats - Bob",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Notes/Stats - Bob.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stats - Bob\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":22},\"to\":{\"line\":1,\"ch\":22}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Notes/Map.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Map"
+            }
+          },
+          {
+            "id": "222cf01b95881476",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Chep Chey",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Mercenary Group/Chep Chey.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Chep Chey\"}",
+                  "eState": "{\"scroll\":0.49019607843137253}"
+                },
+                {
+                  "title": "Bob",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Mercenary Group/Bob.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Bob\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ling Ling",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Mercenary Group/Ling Ling.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Ling Ling\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Esther",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Mercenary Group/Esther.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Esther\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":95,\"ch\":0},\"to\":{\"line\":95,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Bob",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Mercenary Group/Bob.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Bob\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Stats - Bob",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Notes/Stats - Bob.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stats - Bob\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":5},\"to\":{\"line\":0,\"ch\":5}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. The Party/Mercenary Group/Esther.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Esther"
+            }
+          },
+          {
+            "id": "dc867276bef29256",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. The Party/Mercenary Group/Riets.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Riets"
+            }
+          },
+          {
+            "id": "ed2dd8e7a350d068",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. The Party/Mercenary Group/Chep Chey.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Chep Chey"
+            }
+          },
+          {
+            "id": "2726db5fcfa2d7cb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. The Party/Mercenary Group/Ling Ling.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ling Ling"
+            }
+          },
+          {
+            "id": "1a2971ae103c07fd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. The Party/Mercenary Group/Dainssi.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Dainssi"
+            }
+          },
+          {
+            "id": "2ac452fe18c0f443",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. The Party/Mercenary Group/Bob.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Bob"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74062c5c1a193611",
+    "type": "split",
+    "children": [
+      {
+        "id": "3162a722a7a2e063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b74dd5f2756003df",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f402bb1e032f42ec",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7d7e9eb2c0c86fd2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "fcbbc5f832bcdc90",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. DM Screen/Main Menu.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Main Menu"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b2a5081b3297149d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dbc13e0d096528b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d11716062c7662c1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. World Almanac/World/Maps/Gong Principality/Part 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Part 1"
+            }
+          },
+          {
+            "id": "367f0aa730a4f3c5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. World Almanac/World/Maps/Gong Principality/Part 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Part 1"
+            }
+          },
+          {
+            "id": "b059de767489519f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3722099aaf24f83d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "3883a5caeed6abe5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. Notes/Map.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Map"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "dc4209f70094629c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b24c6594fccf930c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "fantasy-statblocks-creature-pane"
+            }
+          },
+          {
+            "id": "77339d1f012d7eb9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "media-extended:Open external media": false,
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "e89e4b7ab8a3f79c",
+  "lastOpenFiles": [
+    "1. The Party/Mercenary Group/Riets.md",
+    "0. Notes/Map.md",
+    "1. The Party/Mercenary Group/Bob.md",
+    "1. The Party/Mercenary Group/Chep Chey.md",
+    "1. The Party/Mercenary Group/Esther.md",
+    "1. The Party/Mercenary Group/Dainssi.md",
+    "1. The Party/Mercenary Group/Ling Ling.md",
+    "0. Notes/Stats - Bob.md",
+    "z_Assets/Maps/Battle Maps/forest - 3 - dark sun..png",
+    "1. World Almanac/World/Maps/Dark Sun.md",
+    "1. World Almanac/World/Maps/Battlemaps/Forest - 1.md",
+    "1. World Almanac/World/Maps/Battlemaps/Forest Camp.md",
+    "0. Notes/Test.md",
+    "forest-1..png",
+    "z_Assets/Maps/Battle Maps/camp-forest-1-night..png",
+    "z_Assets/Maps/Battle Maps/forest-1..png",
+    "z_Assets/Maps/Battle Maps/dark sun.jpg",
+    "z_Assets/Maps/Battle Maps/camp-forest-1-day..png..png",
+    "1. World Almanac/World/Maps/Gong Principality/Part 1.md",
+    "2. Mechanics/Bestiary/Beasts/Small Rat.md",
+    "1. The Party/Mercenary Group/Orb.md",
+    "2. Mechanics/Bestiary/Beasts/Adult Rat.md",
+    "2. Mechanics/Bestiary/Beasts/Young Wolf.md",
+    "2. Mechanics/Bestiary/Beasts/Adult Wolf.md",
+    "2. Mechanics/Bestiary/Beasts/Alpha Wolf.md",
+    "1. World Almanac/World/Maps/Gong Principality/Royal Capital.md",
+    "2. Mechanics/Bestiary/Bandits/Bandit Leader.md",
+    "1. World Almanac/World/Maps/Gong Principality/Part 2.md",
+    "1. World Almanac/World/Maps/Gong Principality/Ivalis Fort City.md",
+    "1. World Almanac/World/Maps/Battlemaps",
+    "z_Assets/Maps/Battle Maps",
+    "z_Assets/Maps/Gong Principality/gong city - royal capital.png",
+    "z_Assets/Maps/Gong Principality/gong city - ivalis fort city.png",
+    "z_Templates/1_Story World Templates/People/Template - Player.md",
+    "z_Templates/2_Mechanics Gallery/2_Mechanics Gallery.md",
+    "2. Mechanics/Bestiary/Beasts",
+    "1. World Almanac/World/Maps/Gong Principality/gong - dark sun - 1.png",
+    "z_Assets/Maps/Gong Principality/gong - dark sun - 3.png",
+    "z_Assets/Maps/Gong Principality",
+    "1. World Almanac/World/Maps/Rheto Kingdom",
+    "1. World Almanac/World/Maps/Reinfer Kingdom",
+    "1. World Almanac/World/Maps/Ashburn Empire",
+    "1. World Almanac/World/Maps/Theocracy of the Moon",
+    "1. World Almanac/World/Maps/Ellazue Merchantry",
+    "1. World Almanac/World/Maps/Dragon Peaks",
+    "Untitled.canvas"
+  ]
+}

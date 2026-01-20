@@ -1,0 +1,178 @@
+{
+  "mapMarkers": [
+    {
+      "id": "DarkSunMap",
+      "lastAccessed": 1765289754604,
+      "markers": [
+        {
+          "id": "ID_f908e8f94a78",
+          "type": "default",
+          "loc": [
+            614,
+            2094.003742856825
+          ],
+          "layer": "%5B%5Btavern-guild.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.46741154974482696,
+            -0.23984375
+          ],
+          "description": "Chep Chey",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9e9aaa8093b",
+          "type": "default",
+          "loc": [
+            566,
+            2147.0021053569635
+          ],
+          "layer": "%5B%5Btavern-guild.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.47924154137432223,
+            -0.22109375
+          ],
+          "description": "Bob",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a3be83a5b08",
+          "type": "default",
+          "loc": [
+            548,
+            2098.0025732140666
+          ],
+          "layer": "%5B%5Btavern-guild.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4683041458067113,
+            -0.2140625
+          ],
+          "description": "Riets",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a48d9cae99b",
+          "type": "default",
+          "loc": [
+            571,
+            2049.0021053569635
+          ],
+          "layer": "%5B%5Btavern-guild.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4573665413743222,
+            -0.223046875
+          ],
+          "description": "Dainssi",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b7a3a6ae979",
+          "type": "default",
+          "loc": [
+            1843.5,
+            3181.5003508928276
+          ],
+          "layer": "%5B%5Bgong%20city%20-%20ivalis%20fort%20city.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8285157163783405,
+            -0.8534722222222222
+          ],
+          "description": "Yellow Corps",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8fa0b88f8aa",
+          "type": "default",
+          "loc": [
+            1879.5,
+            3009.5011696427578
+          ],
+          "layer": "%5B%5Bgong%20city%20-%20ivalis%20fort%20city.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7837242629278015,
+            -0.8701388888888889
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3849bb7b2a3b",
+          "type": "default",
+          "loc": [
+            1859.9921875,
+            2972.033669002239
+          ],
+          "layer": "%5B%5Bgong%20city%20-%20ivalis%20fort%20city.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "metric",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
